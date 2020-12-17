@@ -3,4 +3,4 @@
 - Website: [roizor.ml](https://roizor.ml)
 - Telegram: [@Roizor](https://t.me/Roizor)
 
-[](https://github-readme-stats.vercel.app/api?username=roizor)
+![GH Stats](https://github-readme-stats.vercel.app/api?username=roizor)
