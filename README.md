@@ -2,7 +2,7 @@
 
 I am Roizor.
 
-:taco:
+:potato:
 
 - Discord: [Roizor#0001](https://discord.gg/UJS8UuNPKq)
 - Website: [roizor.ml](https://roizor.ml)
