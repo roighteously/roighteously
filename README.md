@@ -1,8 +1,6 @@
 ### :wave:
 
-I am Roizor.
-
-:potato:
+Yes i do the code
 
 - Discord: [Roizor#0001](https://discord.gg/UJS8UuNPKq)
 - Website: [roizor.ml](https://roizor.ml)
