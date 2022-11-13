@@ -7,3 +7,5 @@ Yes i do the code
 - Telegram: [@Roizor](https://t.me/Roizor)
 
 [![Roizor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roizor)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roizor)](https://github.com/anuraghazra/github-readme-stats)
