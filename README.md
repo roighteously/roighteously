@@ -6,4 +6,4 @@ Yes i do the code
 - Website: [roizor.ml](https://roizor.ml)
 - Telegram: [@Roizor](https://t.me/Roizor)
 
-![GH Stats](https://github-readme-stats.vercel.app/api?username=roizor)
+![Roizor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roizor)](https://github.com/anuraghazra/github-readme-stats)
