@@ -17,6 +17,8 @@ Yes, I do the code.
 ## Cool Projects
 - [aaPanel-RainLoop](https://github.com/Roizor/aaPanel-RainLoop)
 - [ap-mc-demo](https://github.com/Roizor/ap-mc-demo)
+- [WanaCallSaul](https://github.com/Roizor/WanaCallSaul)
+- SamHydeVirus
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roizor)](https://github.com/anuraghazra/github-readme-stats)
