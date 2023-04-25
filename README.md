@@ -15,6 +15,7 @@ Yes, I do the code.
 - A little bit of C
 
 ## Cool Projects
+- [Susdeck](https://github.com/Susdeck/Susdeck): FOSS alternative to a Stream Deck, with a bit of sus written in JS (Node)
 - [aaPanel-RainLoop](https://github.com/Roizor/aaPanel-RainLoop): Helper for installing the RainLoop email client onto aaPanel written in shell
 - [ap-mc-demo](https://github.com/Roizor/ap-mc-demo): Educational app for installing Minecraft onto a sandboxed environment written in shell
 - [Wordle++](https://github.com/Roizor/wordle-plus-plus): A bookmarklet for modding the NYT wordle written in TypeScript
