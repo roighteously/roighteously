@@ -12,7 +12,6 @@ Yes, I do the code.
 - JavaScript/Node.JS
 - TypeScript
 - C#
-- A little bit of C
 
 ## Cool Projects
 - [Susdeck](https://github.com/Susdeck/Susdeck): FOSS alternative to a Stream Deck, with a bit of sus written in JS (Node)
