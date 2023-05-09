@@ -1,8 +1,6 @@
 ### :wave:
 Yes, I do the code.  
-- Discord: Roi#0001
-- Website: [aiden.dino.icu](https://aiden.dino.icu)
-- Telegram: [@Roizor](https://t.me/Roizor)
+- Discord: Roi#9999
 
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=roizor)
 
