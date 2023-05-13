@@ -8,6 +8,7 @@ Yes, I do the code.
 ## Languages
 - Java
 - JavaScript/Node.JS
+- Python
 - TypeScript
 - C#
 
