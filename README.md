@@ -3,6 +3,8 @@
 Yes, I do the code.  
 Hit that follow button because I think I'm actually cooking with this one..  
 [Coming Soon:tm:...](https://github.com/SneakyMod)
+- Site Dev [@SneakyMod](https://github.com/sneakymod)
+
 - Discord: @roizor
 
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=roizor)
