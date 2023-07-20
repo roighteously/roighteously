@@ -1,6 +1,12 @@
 
 ### :wave:
 Yes, I do the code.  
+
+## Freedeck
+Freedeck is my FOSS alternative to the Stream Deck, all in JS.
+[Check it out here!](https://github.com/Freedeck/Freedeck)
+
+
 Hit that follow button because I think I'm actually cooking with this one..  
 [Coming Soon:tm:...](https://github.com/SneakyMod)
 - Site Dev [@SneakyMod](https://github.com/sneakymod)
