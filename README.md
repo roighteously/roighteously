@@ -13,7 +13,7 @@ Hit that follow button because I think I'm actually cooking with this one..
 
 - Discord: @roizor
 
-![GH Stats](https://github-readme-stats.vercel.app/api?username=roizor)
+![GH Stats](https://github-readme-stats.vercel.app/api?username=roighteously)
 
 
 ## Languages
