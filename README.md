@@ -1,9 +1,15 @@
 
-### :wave:, I'm roighteously
-Yes, I do the code.  
+### Hey there :wave:
+## I'm Aiden.
+I'm an aspiring software engineer/developer & full stack developer.  
 
-# Full About Me
-This is a subset of my real and full about me, [which you can find here.](https://ifarded.lol)
+[Check out my personal website! \(aidens.dev\)](https://aidens.dev)  
+[Check out my stack \[technologies I know\]!](https://stackshare.io/roighteously/my-stack)
+
+**Things I want to learn:**
+- Rust :crab:
+- Kotlin
+- Dart/Flutter
 
 ## Freedeck
 Freedeck is my FOSS alternative to the Stream Deck, all in JS.  
