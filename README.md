@@ -10,6 +10,7 @@ I'm an aspiring software engineer/developer & full stack developer.
 - Rust :crab:
 - Kotlin
 - Dart/Flutter
+- React
 
 ## Freedeck
 Freedeck is my FOSS alternative to the Stream Deck, all in JS.  
